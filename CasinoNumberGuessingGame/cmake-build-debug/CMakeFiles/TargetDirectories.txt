@@ -1,0 +1,3 @@
+/home/maciejl/CLionProjects/CasinoNumberGuessingGame/cmake-build-debug/CMakeFiles/CasinoNumberGuessingGame.dir
+/home/maciejl/CLionProjects/CasinoNumberGuessingGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/maciejl/CLionProjects/CasinoNumberGuessingGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
